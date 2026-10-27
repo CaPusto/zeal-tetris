@@ -8,7 +8,6 @@ It is written in C for SDCC and talks to the hardware through the official
 [Zeal Game Dev Kit](https://github.com/zoul0813/zeal-game-dev-kit). The game
 runs in the `zeal-native` emulator and is intended for real hardware as well.
 
-Current release: **RC2**.
 
 ![Tetris running on the Zeal 8-bit Computer](docs/screenshot.png)
 
