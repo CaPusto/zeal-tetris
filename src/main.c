@@ -535,7 +535,7 @@ static void draw_static_ui(void)
 
     draw_text(4, 26, "ARROWS MOVE  UP ROTATE", G_DIM);
     draw_text(4, 27, "SPACE DROP  ENTER PAUSE", G_DIM);
-    draw_text(36, 28, "2006", G_DIM);
+    draw_text(36, 28, "2026", G_DIM);
 }
 
 static void clear_overlay(void)
