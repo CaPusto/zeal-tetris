@@ -110,7 +110,6 @@ Makefile          build rules and default SDK paths
 src/main.c        the whole game
 bin/              build output (ignored by Git)
 docs/             screenshot used in this README
-AGENTS.md         development guidelines for AI-assisted work
 ```
 
 ## Acknowledgements
